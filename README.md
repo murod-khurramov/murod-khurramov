@@ -30,3 +30,4 @@
 
 # ⏱️ Wakatime Stats
 [![Khurramov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khurramov&layout=compact&theme=react)](https://wakatime.com/@khurramov)
+[![Tohir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tohir&layout=compact&theme=react)](https://wakatime.com/@tohir)
