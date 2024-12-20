@@ -26,9 +26,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnu-bash&logoColor=white&style=for-the-badge)  
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=murod-khurramov&show_icons=true&theme=transparent)</br>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=murod-khurramov&theme=transparent)</br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=murod-khurramov&layout=compact&theme=transparent)</br>
+![](https://github-readme-stats.vercel.app/api?username=murod-khurramov&show_icons=true&theme=transparent) 
 
 # ⏱️ Wakatime Stats
 [![Khurramov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khurramov&layout=compact&theme=react)](https://wakatime.com/@khurramov)
