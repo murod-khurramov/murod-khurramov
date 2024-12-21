@@ -14,10 +14,6 @@
 
 
 # 💻 Tech Stack
-
-
-
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)  
