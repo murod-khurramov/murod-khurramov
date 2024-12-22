@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Murod, a Backend Developer 🚀
+# 👋🏻 Hey there! I'm Murod, a Backend Developer 🚀
 
 💻 Backend Developer | PHP & Laravel Enthusiast | API Specialist
 
