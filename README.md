@@ -27,3 +27,30 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=murod-khurramov&show_icons=true&theme=transparent) 
+
+# ⏱️ WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/bd24ba8f-e3f8-48d3-9a1a-b6349c98266a.svg)](https://wakatime.com/@bd24ba8f-e3f8-48d3-9a1a-b6349c98266a)
+[![github](https://img.shields.io/github/followers/murod-khurramov?logo=github&style=plastic)](https://github.com/murod-khurramov?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/murod_khurramov?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/murod_khurramov)
+
+- 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
+- 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
+- 📫 How to reach me: [@murod_khurramov](https://twitter.com/murod_khurramov) on Twitter
+
+<!-- Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `username/username` then copy the snippet from your [public WakaTime profile](https://wakatime.com/me). -->
+
+<!--
+**alanhamlett/alanhamlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
