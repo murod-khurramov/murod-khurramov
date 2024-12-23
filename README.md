@@ -8,7 +8,7 @@
 
 🎨 Passionate about designing intuitive and user-friendly web interfaces that enhance user experiences, seamlessly integrating them with robust Laravel backends.
 
-🤝 Excited to collaborate and contribute to open-source projects in the PHP and Laravel ecosystem. Together, we can create impactful web solutions!
+🤝🏻 Excited to collaborate and contribute to open-source projects in the PHP and Laravel ecosystem. Together, we can create impactful web solutions!
 
 📫 Feel free to reach out to me via [Email](khurramovbobomurod@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/murod-khurramov-3b48b82a8/) or [Telegram](https://t.me/khurramow).
 
